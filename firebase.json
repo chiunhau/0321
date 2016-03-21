@@ -1,0 +1,10 @@
+{
+  "firebase": "0321",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**",
+    "**/bower_components/**"
+  ]
+}
