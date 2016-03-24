@@ -4,14 +4,15 @@ html, body {
 	background-color: #f1f1f1;
 }
 .wrapper {
-	max-width: 1200px;
+	max-width: 1300px;
 	margin: 0 auto;
 }
 h3 {
 	letter-spacing: 0;
 }
 p {
-	letter-spacing: 0;
+	letter-spacing: 1px;
+	line-height: 1.5em;
 }
 .pure-g > div {
   -webkit-box-sizing: border-box;
@@ -32,7 +33,7 @@ p {
 .sidebar {
 	text-align: left;
 	height: 100%;
-	width: 300px;
+	width: 350px;
 	position: fixed;
 	padding: 10px; 
 }
@@ -40,7 +41,7 @@ p {
 	position: relative;
 	width: auto;
 	overflow: auto;
-	margin-left: 350px;
+	margin-left: 400px;
 }
 .head-title {
 	color: #aaa;
